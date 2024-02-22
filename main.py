@@ -5,7 +5,7 @@ pygame.init()
  
 display = pygame.display.set_mode((300, 300))
  
-
+# test
 while True:
        
     for event in pygame.event.get():
